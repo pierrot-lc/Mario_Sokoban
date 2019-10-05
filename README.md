@@ -10,3 +10,5 @@ Le lien vers le sujet initial du TP : https://openclassrooms.com/fr/courses/1998
 Ce TP a été réalisé en C avec CodeBlocks (ce qui explique le bordel du repo).
 
 Dans le dossier 'setup' est placé un exécutable pour installer le jeu sur une machine Windows.
+
+Note : Il manque le 'loading_screen.wav', ce fichier audio est trop gros pour être mis sur le git.
