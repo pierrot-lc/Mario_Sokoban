@@ -7,4 +7,6 @@ Suite au TP, j'ai ajouté des améliorations comme la lecture de sons, la possib
 
 Le lien vers le sujet initial du TP : https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c/18709-tp-mario-sokoban.
 
-Ce TP a été réalisé en C avec CodeBlocks pour Windows.
+Ce TP a été réalisé en C avec CodeBlocks (ce qui explique le bordel du repo).
+
+Dans le dossier 'setup' est placé un exécutable pour installer le jeu sur une machine Windows.
